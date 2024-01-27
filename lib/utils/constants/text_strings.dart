@@ -1,5 +1,5 @@
-class MTextStrings{
-  MTextStrings._();
+class MText{
+  MText._();
 
   // -- Global Text
 
